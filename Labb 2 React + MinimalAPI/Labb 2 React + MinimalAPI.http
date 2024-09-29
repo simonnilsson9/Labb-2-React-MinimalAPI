@@ -1,0 +1,6 @@
+@Labb_2_React___MinimalAPI_HostAddress = http://localhost:5008
+
+GET {{Labb_2_React___MinimalAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
